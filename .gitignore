@@ -1,3 +1,3 @@
 *.swp
-/electron_video/node_modules
+/**/node_modules
 
