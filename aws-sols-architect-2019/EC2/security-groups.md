@@ -1,0 +1,2 @@
+#### Overview
+Security groups allow you to specify the open ports. They apply immediately. All invound traffic is blocked by default; you must add inbound rules specifying what ports are open. All outbound traffic is allowed. Any number of EC2 instances can be within a security group, and multiple security groups can be attached to an EC2 instance. Specific IP addresses can't be blocked with security groups, Network Access Control Lists (covered in VPC note) govern that.
