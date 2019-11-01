@@ -1,0 +1,3 @@
+#### Overview
+Virtual Private Cloud is a service that lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual network, including selection of IP address range, creation of subnets, and configuration of route tables and network gateways. This control gives you much tighter security. For example, you can have your webservers on a public-facing subnet and your backend systems such as databses on a private-facing subnet with no internet access. This exposes what we want without exposing what we don't want.
+
